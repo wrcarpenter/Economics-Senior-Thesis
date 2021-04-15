@@ -4,7 +4,7 @@ Repository to hold a copy of senior thesis research for reference purposes. Down
 
 # Title & Abstract
 
-**Commercial Mortgage Distress during the COVID-19 Pandemic: Evaluating the Impact of Government Aid and Mobility**
+**"Commercial Mortgage Distress during the COVID-19 Pandemic: Evaluating the Impact of Government Aid and Mobility"**
 
 <p align="center">
     Abstract
